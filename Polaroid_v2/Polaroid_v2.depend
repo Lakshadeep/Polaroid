@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1313311483 source:c:\users\lakshadeep\desktop\polaroid_v2\serial.cpp
+	"serial.h"
+
+1293972273 c:\users\lakshadeep\desktop\polaroid_v2\serial.h
+	<windows.h>
+
+1356512159 source:c:\users\lakshadeep\desktop\polaroid_v2\serialport.cpp
+	"serialport.h"
+
+1356257500 c:\users\lakshadeep\desktop\polaroid_v2\serialport.h
+	<windows.h>
+	<cstdio>
+
+1388822749 source:c:\users\lakshadeep\desktop\polaroid_v2\main.cpp
+	"cv.h"
+	"highgui.h"
+	"math.h"
+	<iostream>
+	<cstdio>
+	"serialport.h"
+
